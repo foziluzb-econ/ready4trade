@@ -60,12 +60,6 @@ The current Telegram bot provides access to the following services:
 
 ### Telegram Bot Interface
 
-Upload the supplied screenshot to:
-
-`docs/screenshots/bot-main-menu.png`
-
-Then this image will render automatically:
-
 ![Ready4Trade Telegram bot main menu](docs/screenshots/bot-main-menu.png)
 
 ## Buyer & Market Intelligence
