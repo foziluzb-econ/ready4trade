@@ -188,7 +188,7 @@ Key priorities include:
 - Chairman, Association of Exporters of Uzbekistan
 - Provides export-sector expertise, exporter access, institutional relationships, market-validation support, and strategic partnerships
 
-### Lazizxuja Sharipov
+### Lazizkhuja Sharipov
 **Export Branding & Packaging Lead**
 
 - Branding and packaging specialist
