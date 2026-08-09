@@ -64,7 +64,7 @@ Ready4Trade Telegram bot main menu
 
 ![Ready4Trade Telegram bot main menu](docs/screenshots/bot-main-menu.png)
 
-Identify your product's Harmonised System (HS) code result
+"Identify your product's Harmonised System (HS) code" button/service result
 
 ![Ready4Trade Telegram bot hs-classification](docs/screenshots/hs-classification.png)
 
