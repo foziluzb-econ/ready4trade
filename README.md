@@ -60,7 +60,7 @@ The current Telegram bot provides access to the following services:
 
 ### Telegram Bot Interface
 
-![Ready4Trade Telegram bot main menu](docs/screenshots/bot-main-menu.png)
+![Ready4Trade Telegram bot main menu](docs/screenshots/bot-main-menu.png)  ![Ready4Trade Telegram bot hs-classification](docs/screenshots/hs-classification.png)
 
 ## Buyer & Market Intelligence
 
