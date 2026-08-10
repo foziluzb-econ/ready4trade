@@ -14,8 +14,7 @@
 ## Project Status
 
 **Stage:** MVP  
-**Category:** Enterprise / TradeTech  
-**Application:** President Tech Award — Incubation Program, Uzbekistan
+**Category:** Enterprise / TradeTech / International Trade / Transport & Logistics
 
 Ready4Trade already has a working Telegram-based user interface, export-support modules, structured trade and buyer datasets, and a web-based analytical dashboard. The current development priority is to validate the product with exporters, strengthen data quality and buyer relevance, integrate the existing modules, and prepare the platform for go-to-market.
 
