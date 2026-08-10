@@ -99,7 +99,7 @@ Current analytical work includes:
 The initial pilot has been developed around **Uzbekistan and Slovakia**, providing a research and technical foundation that can later be expanded to the European Union, Gulf countries, Central Asia, and other priority export markets.
 
 **Live dashboard:**  
-https://export-opportunity-navigator-uzb-svk-production.up.railway.app/?perspective=UZB
+https://ready4trade.pages.dev/
 
 ## Why Ready4Trade Matters for Uzbekistan
 
@@ -149,7 +149,7 @@ The MVP currently uses a practical, modular architecture built around:
 - **trade-statistics processing**
 - **RCA and market-analysis logic**
 - **web-based analytical dashboard**
-- **Railway deployment for the Opportunity Navigator**
+- **Deployment for the Opportunity Navigator**
 
 The architecture is being developed so that individual modules can later be integrated into a more scalable API-driven platform.
 
@@ -226,7 +226,7 @@ Ready4Trade also draws on ongoing academic and professional discussions around e
 - Telegram Bot: https://t.me/Ready4Trade_bot
 - Telegram Channel: https://t.me/Ready4Trade_Global
 - Taplink: https://taplink.cc/ready4trade
-- Export Opportunity Navigator: https://export-opportunity-navigator-uzb-svk-production.up.railway.app/?perspective=UZB
+- Export Opportunity Navigator: https://ready4trade.pages.dev/
 
 ## Vision
 
