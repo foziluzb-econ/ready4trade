@@ -9,7 +9,7 @@
 - **Telegram Bot:** https://t.me/Ready4Trade_bot
 - **Telegram Channel:** https://t.me/Ready4Trade_Global
 - **Project Links:** https://taplink.cc/ready4trade
-- **Export Opportunity Navigator:** https://export-opportunity-navigator-uzb-svk-production.up.railway.app/?perspective=UZB
+- **Export Opportunity Navigator:** https://ready4trade.pages.dev/
 
 ## Project Status
 
