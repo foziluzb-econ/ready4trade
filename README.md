@@ -172,11 +172,11 @@ Key priorities include:
 
 ## Team
 
-### Foziljon Rustamov
+### Fozil
 **Founder & Product/Technology Lead**
 
 - International Trade Development & Market Intelligence Specialist, Association of Exporters of Uzbekistan
-- PhD Researcher, Tashkent State University of Economics
+- Researcher, Tashkent State University of Economics
 - Economics Lecturer, Turin Polytechnic University in Tashkent
 - International research experience: University of Žilina, Slovakia
 - Responsible for Ready4Trade product development, backend coding, data processing, trade research, analytics, and overall product direction
